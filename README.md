@@ -27,6 +27,9 @@
 
   * [Penguin classification with knn](https://github.com/joacopalas/penguins_knn)
   * [Car price dashboard visualization](https://github.com/joacopalas/car_price_dashboard)
+  * [Linear regression from scratch](https://github.com/joacopalas/LinearRegressionFromScratch)
+  * [Home price regression](https://github.com/joacopalas/Home-price-regression)
+  * [Neural network from scratch](https://github.com/joacopalas/NerualNetworkFromScratch)
 
 
 <h3 align="fet"> Contact info: </h3> 
