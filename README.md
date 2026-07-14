@@ -30,6 +30,7 @@
   * [Linear regression from scratch](https://github.com/joacopalas/LinearRegressionFromScratch)
   * [Home price regression](https://github.com/joacopalas/Home-price-regression)
   * [Neural network from scratch](https://github.com/joacopalas/NerualNetworkFromScratch)
+  * [End-to-end house price regression](https://github.com/joacopalas/house-price-prediction)
 
 
 <h3 align="fet"> Contact info: </h3> 
